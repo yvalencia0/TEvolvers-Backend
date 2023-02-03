@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEvolvers", "TEvolvers\TEvolvers.csproj", "{F645C395-4424-4DA1-AFB3-A6AB6C4D406D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F645C395-4424-4DA1-AFB3-A6AB6C4D406D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F645C395-4424-4DA1-AFB3-A6AB6C4D406D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F645C395-4424-4DA1-AFB3-A6AB6C4D406D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F645C395-4424-4DA1-AFB3-A6AB6C4D406D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4CF8DC3-8161-411B-912A-AA0210B8E8C7}
+	EndGlobalSection
+EndGlobal
