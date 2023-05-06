@@ -16,13 +16,7 @@ Antes de empezar con el proceso de clonación del repositorio, debemos tener en 
 
 
 
-Clonamos el repositorio como la plantilla ASP.NET Core Web API
-
-Ingresar a administrador de paquetes NuGet y verificar que se encuentren instalados los siguientes NuGets:
-- Microsoft.EntityFrameworkCore.SqlServer
-- Microsoft.EntityFrameworkCore.Tools
-
-Ingresar al archivo appsettings.json y modificar el parámetro Server a la variable DefaultConnection por el nombre de nuestro servidor local SQLServer.
+Una vez clonado el repositorio debemos ingresar al archivo appsettings.json y modificar el parámetro Server a la variable DefaultConnection por el nombre de nuestro servidor local SQLServer.
 
 Abrir la consola del administrador de paquetes y digitar el comando add-migration myNewMitration y presionamos la tecla enter.
 
